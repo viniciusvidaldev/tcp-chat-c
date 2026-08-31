@@ -1,6 +1,6 @@
 # tcp-chat-c
 
-Multithreaded TCP chat server and client in C with a length-prefixed binary protocol. Built while working through Beej's guide to network programming.
+Multithreaded TCP chat server and client in C with a length-prefixed binary protocol.
 
 ## Build
 
