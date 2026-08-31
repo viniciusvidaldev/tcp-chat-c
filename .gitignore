@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# Object files and debug symbols
+*.o
+*.d
+*.dSYM/
+
+# Editor / OS junk
+.DS_Store
+*.swp
+.vscode/
+.idea/
